@@ -47,21 +47,20 @@ div.desc {
 }
 </style>
 
-# Grand Thesis Adventure(GTA): Stress City
 
 <p align="center">
   <img src="Poster.png" style="height: 85vh"/>
 </p>
 
-## Theme
+# Theme
 
 You’re a master's student. Your thesis is coming up. You need an advisor. You can't find anyone. You’re stressed, you don't know what to do, the world seems to spin and your life seems meaningless but there's no way out and nowhere to go. The path is riddled with obstacles. Your life is getting absurd. When the going gets tough, will you still keep going?
 
-## Prizes
+# Prizes
 
 All in all, we are giving away **7 prizes**.
 
-### 1) Main Quest
+## 1) Main Quest
 
 The main quest follows a linear storyline, like a game, and **No Knowledge of Coding Is Required to Solve it**. There are 3 prizes-
 
@@ -69,7 +68,7 @@ The main quest follows a linear storyline, like a game, and **No Knowledge of Co
 2. Second Prize:- **An Amazon Gift Card worth ₹500**
 3. Third Prize:- **An Amazon Gift Card worth ₹300**
 
-### 2) Side Quests
+## 2) Side Quests
 
 There are 4 side quests in the game spread across the games, and there's a prize for each. The prize would go to the team solving them first-
 
@@ -82,141 +81,97 @@ The Labyrinth Side Quest requires a **minimal** knowledge of coding to solve it.
 
 A prize would be given to a team that completes a side quest first.
 
-## Interested?
+# Interested?
 
 Register at [https://bit.ly/Turing Hunt](https://bit.ly/Turing Hunt). Yep, we got a fancy link too!
 
-## Download Links
+# Download Links
 
 Would appear here.
 
-## Credits
+# Promotions
 
 The event has been organized by the [Turing Club, IISER Mohali](https://iiserm.github.io/turing-club/). You can also find us on [Twitter](https://twitter.com/Turing_IISERM?s=20&t=rLMk5rEh60kLV31UfKQuKA) and [Instagram](https://instagram.com/turing_iiserm?utm_medium=copy_link). 
 
-### Game Engine Development
+The game has been built using [Tetra](https://github.com/DhruvaSambrani/turing-hunt-engine). Tetra is a game engine/game development framework. You can use it for building your own treasure hunts as well. 
 
-- Akshay Shankar
-- Dhruva Sambrani
-
-### Map Development
-
-- Abhay Gupta
-- Aprameyan Desikan
-- Jayashree Narayan
-- Sachin Iyer
-
-### Main Quest 
-
-- Abhay Gupta
-- Aprameyan Desikan
-- Jayashree Narayan
-- Rochan Das
-- Sachin Iyer
-- Swastik Patnaik
-
-### Side Quests
-
-- Aprameyan Desikan
-- James
-- Rochan Das
-- Sourav Suresh
-
-### Coding
-
-- Ajay Sharma
-- James
-
-### Poster Credits
-
-- Rochan Das
-
-### Trailer
-
-- Akshay Shankar
-- Dhruva Sambrani
-
-### Game Media
-
-- 
-
-## Meet The Team
+# Meet The Team
 
 You can find the faces of our amazing team below-
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Abhay.jpeg" style="width: 400px; height: 280px">
+    <img src="Abhay.jpeg" style="width: 400px; height: 250px">
     <div class="desc">Abhay Gupta <br> <b>Aliases: </b>Assassin Gupta</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Ajay.jpeg" style="width: 400px; height: 280px">
+    <img src="Ajay.jpeg" style="width: 400px; height: 250px">
     <div class="desc">Ajay Sharma <br> <b>Aliases: </b>Ajay</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Akshay.jpg" style="width: 400px; height: 280px">
-    <div class="desc">Akshay Shankar <br> <b>Aliases: </b>Assassin Gupta</div>
+    <img src="Akshay.jpg" style="width: 400px; height: 250px">
+    <div class="desc">Akshay Shankar <br> <b>Aliases: </b>Akshay</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Aprameyan.jpg" style="width: 400px; height: 280px">
-    <div class="desc">Aprameyan Desikan <br> <b>Aliases: </b>Aprameyan</div>
+    <img src="Aprameyan.jpeg" style="width: 400px; height: 250px">
+    <div class="desc">Aprameyan Desikan <br> <b>Aliases: </b>Apra Man</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="https://dhruvasambrani.github.io/images/dp.webp" style="width: 400px; height: 280px">
+    <img src="https://dhruvasambrani.github.io/images/dp.webp" style="width: 400px; height: 250px">
     <div class="desc">Dhruva Sambrani <br><b>Aliases: </b>Dhruva </div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="James.jpeg" style="width: 400px; height: 280px">
+    <img src="James.jpeg" style="width: 400px; height: 250px">
     <div class="desc">James <br><b>Aliases: </b> Darkness Sensei</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Jayashree.jpg" style="width: 400px; height: 280px">
+    <img src="Jayashree.jpg" style="width: 400px; height: 250px">
     <div class="desc">Jayashree Narayan <br> <b>Aliases: </b> J</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Rochan.jpg" style="width: 400px; height: 280px">
+    <img src="Rochan.jpeg" style="width: 400px; height: 250px">
     <div class="desc">Rochan Das <br> <b>Aliases: </b> Rochan</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Sachin.jpg" style="width: 400px; height: 280px">
+    <img src="Sachin.jpg" style="width: 400px; height: 250px">
     <div class="desc">Sachin Iyer <br> <b>Aliases: </b> Sachin</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Sourav.jpg" style="width: 400px; height: 280px">
+    <img src="Sourav.jpg" style="width: 400px; height: 250px">
     <div class="desc">Sourav Suresh <br> <b>Aliases: </b> Sourav</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Swastik.jpg" style="width: 400px; height: 280px">
+    <img src="Swastik.jpg" style="width: 400px; height: 250px">
     <div class="desc">Swastik Patnaik <br> <b>Aliases: </b> Swastika</div>
   </div>
 </div>
