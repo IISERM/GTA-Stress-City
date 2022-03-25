@@ -101,78 +101,78 @@ You can find the faces of our amazing team below-
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Abhay.jpeg" style="width: 400px; height: 250px">
-    <div class="desc">Abhay Gupta <br> <b>Aliases: </b>Assassin Gupta</div>
+    <img src="Abhay.jpeg" style="width: 400px; height: 220px">
+    <div class="desc">Abhay Gupta</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Ajay.jpeg" style="width: 400px; height: 250px">
-    <div class="desc">Ajay Sharma <br> <b>Aliases: </b>Ajay</div>
+    <img src="Ajay.jpg" style="width: 400px; height: 220px">
+    <div class="desc">Ajay Sharma</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Akshay.jpg" style="width: 400px; height: 250px">
-    <div class="desc">Akshay Shankar <br> <b>Aliases: </b>Akshay</div>
+    <img src="Akshay.jpg" style="width: 400px; height: 220px">
+    <div class="desc">Akshay Shankar</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Aprameyan.jpeg" style="width: 400px; height: 250px">
-    <div class="desc">Aprameyan Desikan <br> <b>Aliases: </b>Apra Man</div>
+    <img src="Aprameyan.jpeg" style="width: 400px; height: 220px">
+    <div class="desc">Aprameyan Desikan</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="https://dhruvasambrani.github.io/images/dp.webp" style="width: 400px; height: 250px">
-    <div class="desc">Dhruva Sambrani <br><b>Aliases: </b>Dhruva </div>
+    <img src="https://dhruvasambrani.github.io/images/dp.webp" style="width: 400px; height: 220px">
+    <div class="desc">Dhruva Sambrani</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="James.jpeg" style="width: 400px; height: 250px">
-    <div class="desc">James <br><b>Aliases: </b> Darkness Sensei</div>
+    <img src="James.jpeg" style="width: 400px; height: 220px">
+    <div class="desc">James</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Jayashree.jpg" style="width: 400px; height: 250px">
-    <div class="desc">Jayashree Narayan <br> <b>Aliases: </b> J</div>
+    <img src="Jayashree.jpg" style="width: 400px; height: 220px">
+    <div class="desc">Jayashree Narayan</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Rochan.jpeg" style="width: 400px; height: 250px">
-    <div class="desc">Rochan Das <br> <b>Aliases: </b> Rochan</div>
+    <img src="Rochan.jpeg" style="width: 400px; height: 220px">
+    <div class="desc">Rochan Das</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Sachin.jpg" style="width: 400px; height: 250px">
-    <div class="desc">Sachin Iyer <br> <b>Aliases: </b> Sachin</div>
+    <img src="Sachin.jpg" style="width: 400px; height: 220px">
+    <div class="desc">Sachin Iyer</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Sourav.jpg" style="width: 400px; height: 250px">
-    <div class="desc">Sourav Suresh <br> <b>Aliases: </b> Sourav</div>
+    <img src="Sourav.jpeg" style="width: 400px; height: 220px">
+    <div class="desc">Sourav Suresh</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <img src="Swastik.jpg" style="width: 400px; height: 250px">
-    <div class="desc">Swastik Patnaik <br> <b>Aliases: </b> Swastika</div>
+    <img src="Swastik.jpg" style="width: 400px; height: 220px">
+    <div class="desc">Swastik Patnaik</div>
   </div>
 </div>
 
