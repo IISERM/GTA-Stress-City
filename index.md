@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 div.gallery {
   border: 1px solid #ccc;
 }
@@ -45,7 +45,7 @@ div.desc {
   display: table;
   clear: both;
 }
-</style>
+</style> -->
 
 
 <p align="center">
@@ -99,7 +99,56 @@ The game has been built using [Tetra](https://github.com/DhruvaSambrani/turing-h
 
 You can find the faces of our amazing team below-
 
-<div class="responsive">
+| ![](Abhay.jpeg) | 
+|:--:| 
+| **Abhay Gupta**
+*Aliases: Assassin Gupta*|
+
+| ![](Ajay.jpg) | 
+|:--:| 
+| **Ajay Sharma** |
+
+| ![](Akshay.jpg) | 
+|:--:| 
+| **Akshay Shankar** |
+
+| ![](Aprameyan.jpeg) | 
+|:--:| 
+| **Aprameyan Desikan** |
+
+| ![](https://dhruvasambrani.github.io/images/dp.webp) | 
+|:--:| 
+| **Dhruva Sambrani**
+Aliases: *Dhruva* |
+
+| ![](James.jpeg) | 
+|:--:| 
+| **James**
+Aliases: *Darkness Sensei* |
+
+| ![](Jayashree.jpg) | 
+|:--:| 
+| **Jayashree Narayan**
+Aliases: *J* |
+
+| ![](Rochan.jpeg) | 
+|:--:| 
+| **Rochan Das** |
+
+| ![](Sachin.jpg) | 
+|:--:| 
+| **Sachin Iyer** |
+
+| ![](Sourav.jpeg) | 
+|:--:| 
+| **Sourav Suresh** |
+
+| ![](Swastik.jpg) | 
+|:--:| 
+| **Swastik Patnaik**
+Aliases: *Swastika* |
+
+<!-- <div class="responsive">
   <div class="gallery">
     <img src="Abhay.jpeg" style="width: 400px; height: 220px">
     <div class="desc">Abhay Gupta</div>
@@ -176,4 +225,4 @@ You can find the faces of our amazing team below-
   </div>
 </div>
 
-<div class="clearfix"></div>
+<div class="clearfix"></div> -->
