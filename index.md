@@ -1,52 +1,62 @@
-<!-- <style>
-div.gallery {
-  border: 1px solid #ccc;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-
+<style>
 * {
   box-sizing: border-box;
 }
 
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
+body {
+  margin: 0;
+  font-family: Arial;
 }
 
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+figure {
+    margin: 2px !important;
+    border: solid 2px black;
+    border-radius: 4px;
+}
+
+figure figcaption {
+    text-align: center;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
   }
 }
 
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
   }
 }
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style> -->
-
+</style>
 
 <p align="center">
   <img src="Poster.png" style="height: 85vh"/>
@@ -99,131 +109,58 @@ The game has been built using [Tetra](https://github.com/DhruvaSambrani/turing-h
 
 You can find the faces of our amazing team below-
 
-| ![](Abhay.jpeg) | 
-|:--:| 
-| **Abhay Gupta**
-Aliases: *Assassin Gupta*|
-
-| ![](Ajay.jpg) | 
-|:--:| 
-| **Ajay Sharma**
-Aliases: *NatalTiger26* |
-
-| ![](Akshay.jpg) | 
-|:--:| 
-| **Akshay Shankar** |
-
-| ![](Aprameyan.jpeg) | 
-|:--:| 
-| **Aprameyan Desikan** |
-
-| ![](https://dhruvasambrani.github.io/images/dp.webp) | 
-|:--:| 
-| **Dhruva Sambrani**
-Aliases: *Dhruva* |
-
-| ![](James.jpeg) | 
-|:--:| 
-| **James**
-Aliases: *Darkness Sensei* |
-
-| ![](Jayashree.jpg) | 
-|:--:| 
-| **Jayashree Narayan**
-Aliases: *J* |
-
-| ![](Rochan.jpeg) | 
-|:--:| 
-| **Rochan Das** |
-
-| ![](Sachin.jpg) | 
-|:--:| 
-| **Sachin Iyer** |
-
-| ![](Sourav.jpeg) | 
-|:--:| 
-| **Sourav Suresh** |
-
-| ![](Swastik.jpg) | 
-|:--:| 
-| **Swastik Patnaik**
-Aliases: *Swastika* |
-
-<!-- <div class="responsive">
-  <div class="gallery">
-    <img src="Abhay.jpeg" style="width: 400px; height: 220px">
-    <div class="desc">Abhay Gupta</div>
+<div class="row"> 
+  <div class="column">
+    <figure>
+      <img src="Abhay.jpg" alt="Abhay" style="width:100%">
+      <figcaption>Abhay "Assassin" Gupta</figcaption>
+    </figure>
+    <figure>
+      <img src="Ajay.jpg" alt="Ajay" style="width:100%">
+      <figcaption>Ajay "NatalTiger26" Sharma</figcaption>
+    </figure>
+    <figure>
+      <img src="Akshay.jpg" alt="Akshay" style="width:100%">
+      <figcaption>Akshay Shankar</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+      <img src="Aprameyan.jpg" alt="Aprameyan" style="width:100%">
+      <figcaption>Aprameyan "Apra Man" Desikan</figcaption>
+    </figure>
+    <figure>
+      <img src="https://dhruvasambrani.github.io/images/dp.webp" alt="Dhruva" style="width:100%">
+      <figcaption>Dhruva Sambrani</figcaption>
+    </figure>
+    <figure>
+      <img src="Swastik.jpg" alt="Swastik" style="width:100%">
+      <figcaption>Swastik "Swastika" Patnaik</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+      <img src="Rochan.jpg" alt="Rochan" style="width:100%">
+      <figcaption>Rochan "rorochan" Das</figcaption>
+    </figure>
+    <figure>
+      <img src="Sachin.jpg" alt="Sachin" style="width:100%">
+      <figcaption>Sachin Iyer</figcaption>
+    </figure>
+    <figure>
+      <img src="Sourav.jpg" alt="Sourav" style="width:100%">
+      <figcaption>Sourav Suresh</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+      <img src="James.jpg" alt="James" style="width:100%">
+      <figcaption>"Darkness Sensei" James</figcaption>
+    </figure>
+    <figure>
+      <img src="Jayashree.jpg" alt="Jayashree" style="width:100%">
+      <figcaption>Jayashree "J" Narayan</figcaption>
+    </figure>
   </div>
 </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <img src="Ajay.jpg" style="width: 400px; height: 220px">
-    <div class="desc">Ajay Sharma</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <img src="Akshay.jpg" style="width: 400px; height: 220px">
-    <div class="desc">Akshay Shankar</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <img src="Aprameyan.jpeg" style="width: 400px; height: 220px">
-    <div class="desc">Aprameyan Desikan</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <img src="https://dhruvasambrani.github.io/images/dp.webp" style="width: 400px; height: 220px">
-    <div class="desc">Dhruva Sambrani</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <img src="James.jpeg" style="width: 400px; height: 220px">
-    <div class="desc">James</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <img src="Jayashree.jpg" style="width: 400px; height: 220px">
-    <div class="desc">Jayashree Narayan</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <img src="Rochan.jpeg" style="width: 400px; height: 220px">
-    <div class="desc">Rochan Das</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <img src="Sachin.jpg" style="width: 400px; height: 220px">
-    <div class="desc">Sachin Iyer</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <img src="Sourav.jpeg" style="width: 400px; height: 220px">
-    <div class="desc">Sourav Suresh</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <img src="Swastik.jpg" style="width: 400px; height: 220px">
-    <div class="desc">Swastik Patnaik</div>
-  </div>
-</div>
-
-<div class="clearfix"></div> -->
