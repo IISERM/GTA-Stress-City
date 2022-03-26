@@ -102,11 +102,12 @@ You can find the faces of our amazing team below-
 | ![](Abhay.jpeg) | 
 |:--:| 
 | **Abhay Gupta**
-*Aliases: Assassin Gupta*|
+Aliases: *Assassin Gupta*|
 
 | ![](Ajay.jpg) | 
 |:--:| 
-| **Ajay Sharma** |
+| **Ajay Sharma**
+Aliases: *NatalTiger26* |
 
 | ![](Akshay.jpg) | 
 |:--:| 
