@@ -101,7 +101,7 @@ A prize would be given to a team that completes a side quest first.
 
 # Interested?
 
-Register at [https://bit.ly/Turing Hunt](https://bit.ly/Turing Hunt). Yep, we got a fancy link too!
+Register at [https://bit.ly/Turing Hunt](https://bit.ly/Turing Hunt). Yep, we got a fancy link too! **OR ELSE-**
 
 <p align="center">
   <img src="./baby duc.jpg" class="poster"/>
