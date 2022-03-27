@@ -70,6 +70,10 @@ figure figcaption {
 
 You’re a master's student. Your thesis is coming up. You need an advisor. You can't find anyone. You’re stressed, you don't know what to do, the world seems to spin and your life seems meaningless but there's no way out and nowhere to go. The path is riddled with obstacles. Your life is getting absurd. When the going gets tough, will you still keep going?
 
+## Trailer
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AeqxuTZfrMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Prizes
 
 All in all, we are giving away **7 prizes**.
@@ -98,6 +102,10 @@ A prize would be given to a team that completes a side quest first.
 # Interested?
 
 Register at [https://bit.ly/Turing Hunt](https://bit.ly/Turing Hunt). Yep, we got a fancy link too!
+
+<p align="center">
+  <img src="./baby duc.jpg" class="poster"/>
+</p>
 
 # Download Links
 
