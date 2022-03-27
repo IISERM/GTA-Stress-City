@@ -41,6 +41,10 @@ figure figcaption {
     text-align: center;
 }
 
+.poster {
+    max-height: 85vh;
+}
+
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media (max-width: 800px) {
   .column {
@@ -59,7 +63,7 @@ figure figcaption {
 </style>
 
 <p align="center">
-  <img src="Poster.png" style="height: 85vh"/>
+  <img src="Poster.png" class="poster"/>
 </p>
 
 # Theme
