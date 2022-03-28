@@ -66,7 +66,7 @@ figure figcaption {
   <img src="Poster.png" class="poster"/>
 </p>
 
-**Registration Link-** [https://bit.ly/Turing Hunt](https://bit.ly/Turing Hunt)
+**Registration Link-** [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt)
 
 **People outside IISER Mohali are welcome to participate. However, they can't win prizes. Feel free to register at the same link**
 
@@ -110,7 +110,7 @@ A prize would be given to a team that completes a side quest first.
 
 # Interested?
 
-Register at [https://bit.ly/Turing Hunt](https://bit.ly/TuringHunt). Yep, we got a fancy link too! **OR ELSE-**
+Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got a fancy link too! **OR ELSE-**
 
 <p align="center">
   <img src="./baby duc.jpg" class="poster"/>
