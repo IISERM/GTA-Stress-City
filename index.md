@@ -108,6 +108,8 @@ The Labyrinth Side Quest requires a **minimal** knowledge of coding to solve it.
 
 A prize would be given to a team that completes a side quest first.
 
+The side quests are independent of the main quest. You can win the main quest without having any knowledge of coding.
+
 # Interested?
 
 Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got a fancy link too! **OR ELSE-**
