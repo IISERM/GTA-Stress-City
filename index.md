@@ -66,6 +66,11 @@ figure figcaption {
   <img src="Poster.png" class="poster"/>
 </p>
 
+# Time
+
+**1st April, 9 pm**
+Assemble in the H5 study room or join online.
+
 # Theme
 
 You’re a master's student. Your thesis is coming up. You need an advisor. You can't find anyone. You’re stressed, you don't know what to do, the world seems to spin and your life seems meaningless but there's no way out and nowhere to go. The path is riddled with obstacles. Your life is getting absurd. When the going gets tough, will you still keep going?
