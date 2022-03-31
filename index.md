@@ -73,7 +73,7 @@ figure figcaption {
 # Time
 
 **1st April, 9 pm**
-Assemble in the H5 study room or join online.
+Join online and stay connected with us on WhatsApp. Or visit us in H6 study room if you have a doubt.
 
 # Theme
 
@@ -100,9 +100,9 @@ The main quest follows a linear storyline, like a game, and **No Knowledge of Co
 There are 4 side quests in the game spread across the games, and there's a prize for each. The prize would go to the team solving them first-
 
 1. Labyrinth Side Quest- **An Amazon Gift Card worth ₹500 and a goody**
-2. Side Quest 2 - **An Amazon Gift Card worth ₹100 and a goody**
-3. Side Quest 3 - **An Amazon Gift Card worth ₹100 and a goody**
-4. Side Quest 4 - **An Amazon Gift Card worth ₹100 and a goody**
+2. Side Quest 1 - **An Amazon Gift Card worth ₹100 and a goody**
+3. Side Quest 2 - **An Amazon Gift Card worth ₹100 and a goody**
+4. Side Quest 3 - **An Amazon Gift Card worth ₹100 and a goody**
 
 The Labyrinth Side Quest requires a **minimal** knowledge of coding to solve it. You need to know `loops` and `if-else`. The other 3 side quests require some knowledge about computers in general. 
 
