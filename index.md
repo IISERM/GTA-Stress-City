@@ -120,7 +120,17 @@ Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got 
 
 # Download Links
 
-Would appear here.
+| OS             | `ldd` | Download from                                   |
+| -------------- | ----- | ----------------------------------------------- |
+| Windows        | NA    | [main-win.exe](./binaries/main-win.exe)         |
+| Ubuntu 18.04   | 27    | [main-2-27](./binaries/main-2-27)               |
+| Ubuntu 21.04   | 33    | [main-2-33-ubuntu](./binaries/main-2-33-ubuntu) | 
+| Debian Testing | 33    | [main-2-33-debian](./binaries/main-2-33-debian) | 
+| Arch/Manjaro   | 35    | [main-2-35](./binaries/main-2-35)               |
+
+## Linux
+
+If you use a linux not in the above list, run `ldd --version` in your terminal. This will give your `ldd` version number. Use the version with the **highest `ldd` value lower than yours**.
 
 # Promotions
 
