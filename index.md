@@ -120,6 +120,8 @@ Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got 
 
 # Download Links
 
+**Note: The game is about 50MB. So please make sure you don't use up all your data**
+
 | OS             | `ldd` | Download from                                   |
 | -------------- | ----- | ----------------------------------------------- |
 | Windows        | NA    | [main-win.exe](./binaries/main-win.exe)         |
@@ -128,9 +130,29 @@ Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got 
 | Debian Testing | 33    | [main-2-33-debian](./binaries/main-2-33-debian) | 
 | Arch/Manjaro   | 35    | [main-2-35](./binaries/main-2-35)               |
 
-## Linux
+## How to Run
 
-If you use a linux not in the above list, run `ldd --version` in your terminal. This will give your `ldd` version number. Use the version with the **highest `ldd` value lower than yours**.
+### Windows
+
+1. Download the windows version of the game
+2. Double click the downloaded file.
+3. Click `Run Anyway` if a Security pop up comes up
+4. Enjoy
+
+### Linux
+
+1. Download the Linux version. If you use a Linux not in the above list, run `ldd --version` in your terminal. This will give your `ldd` version number. Use the version with the **highest `ldd` value lower than yours**.
+2. Open a terminal and run `chmod +x /path/to/file` wherever the file is located
+3. Run `./path/to/file`
+4. Enjoy
+
+### Mac
+
+1. Throw your Mac into a trash can
+2. Get a friend who has a Windows or Linux laptop
+3. Follow the appropriate instructions
+4. Enjoy
+5. Light fire to the trash can
 
 # Promotions
 
