@@ -118,6 +118,14 @@ Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got 
   <img src="./baby duc.jpg" class="poster"/>
 </p>
 
+# How it should look
+
+![This is NOT how it should look like](./bad.png)
+
+![This is how it should look like](./good.png)
+
+[An example video](./2022-04-01 19-31-13.mkv)
+
 # Download Links
 
 **Note: The game is about 50MB. So please make sure you don't use up all your data**
