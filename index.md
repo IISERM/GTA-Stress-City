@@ -66,6 +66,15 @@ figure figcaption {
   <img src="Poster.png" class="poster"/>
 </p>
 
+**Registration Link-** [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt)
+
+**People outside IISER Mohali are welcome to participate. However, they can't win prizes. Feel free to register at the same link**
+
+# Time
+
+**1st April, 9 pm**
+Join online and stay connected with us on WhatsApp. Or visit us in H6 study room if you have a doubt.
+
 # Theme
 
 You’re a master's student. Your thesis is coming up. You need an advisor. You can't find anyone. You’re stressed, you don't know what to do, the world seems to spin and your life seems meaningless but there's no way out and nowhere to go. The path is riddled with obstacles. Your life is getting absurd. When the going gets tough, will you still keep going?
@@ -91,17 +100,19 @@ The main quest follows a linear storyline, like a game, and **No Knowledge of Co
 There are 4 side quests in the game spread across the games, and there's a prize for each. The prize would go to the team solving them first-
 
 1. Labyrinth Side Quest- **An Amazon Gift Card worth ₹500 and a goody**
-2. Side Quest 2 - **An Amazon Gift Card worth ₹100 and a goody**
-3. Side Quest 3 - **An Amazon Gift Card worth ₹100 and a goody**
-4. Side Quest 4 - **An Amazon Gift Card worth ₹100 and a goody**
+2. Side Quest 1 - **An Amazon Gift Card worth ₹100 and a goody**
+3. Side Quest 2 - **An Amazon Gift Card worth ₹100 and a goody**
+4. Side Quest 3 - **An Amazon Gift Card worth ₹100 and a goody**
 
 The Labyrinth Side Quest requires a **minimal** knowledge of coding to solve it. You need to know `loops` and `if-else`. The other 3 side quests require some knowledge about computers in general. 
 
 A prize would be given to a team that completes a side quest first.
 
+The side quests are independent of the main quest. You can win the main quest without having any knowledge of coding.
+
 # Interested?
 
-Register at [https://bit.ly/Turing Hunt](https://bit.ly/Turing Hunt). Yep, we got a fancy link too! **OR ELSE-**
+Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got a fancy link too! **OR ELSE-**
 
 <p align="center">
   <img src="./baby duc.jpg" class="poster"/>
