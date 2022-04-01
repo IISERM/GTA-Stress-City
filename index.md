@@ -136,15 +136,17 @@ Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got 
 
 1. Download the windows version of the game
 2. Double click the downloaded file.
-3. Click `Run Anyway` if a Security pop up comes up
-4. Enjoy
+3. Click `Run Anyway` if a Security pop up comes up.
+4. Once the font install pop up occurs, **INSTALL THE FONT, CLOSE THE APP AND RESTART**
+5. Enjoy
 
 ### Linux
 
 1. Download the Linux version. If you use a Linux not in the above list, run `ldd --version` in your terminal. This will give your `ldd` version number. Use the version with the **highest `ldd` value lower than yours**.
 2. Open a terminal and run `chmod +x /path/to/file` wherever the file is located
 3. Run `./path/to/file`
-4. Enjoy
+4. Once the font install pop up occurs, **INSTALL THE FONT, CLOSE THE APP AND RESTART**
+5. Enjoy
 
 ### Mac
 
