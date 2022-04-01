@@ -134,6 +134,7 @@ Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got 
 | -------------- | ----- | ----------------------------------------------- |
 | Windows        | NA    | [main-win.exe](./binaries/main-win.exe)         |
 | Ubuntu 18.04   | 27    | [main-2-27](./binaries/main-2-27)               |
+| Ubuntu 20.04   | 31    | [main-2-31-ubuntu](./binaries/main-2-31)        | 
 | Ubuntu 21.04   | 33    | [main-2-33-ubuntu](./binaries/main-2-33-ubuntu) | 
 | Debian Testing | 33    | [main-2-33-debian](./binaries/main-2-33-debian) | 
 | Arch/Manjaro   | 35    | [main-2-35](./binaries/main-2-35)               |
