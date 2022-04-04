@@ -73,7 +73,7 @@ The following are the winners of the event-
 ## MAIN QUEST:
 - ### First Place: (4 hours, 40 mins)
 Team "**prabhu-ke-kripa-ke-liye-chuchu-abhari**" - an MS17 team→
-Achuthan, Abhishek Roy, Kripa Nath, Prabhat Kumar
+Achuthan, Abhishek Roy, Kripa Nath, Parbhat Kumar
 
 - ### Second Place: (7 hours, 9 mins)
 Team "**bananza-boys**" - an MS19 team→
