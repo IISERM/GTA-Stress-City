@@ -210,6 +210,14 @@ The event has been organized by the [Turing Club, IISER Mohali](https://iiserm.g
 
 The game has been built using [Tetra](https://github.com/DhruvaSambrani/turing-hunt-engine). Tetra is a game engine/game development framework. You can use it for building your own treasure hunts as well. 
 
+
+At last, we want to give credits to the following pieces that were used in the event-
+1. In the Hall of the Mountain King - Greig, Seattle Symphony →Trailer Background Music
+2. Intro, Album- Found Footage by Odd Space → The song used in the second last clue
+
+You can check out other songs by Odd Space here [Odd Space](https://open.spotify.com/track/39f8bUV6jlc6e0ABDJdgtp?si=o4MUNXuOQWGH_WUOaiiQWA)
+Not all his songs have Morse codes hidden inside them. He has got "normal" songs too.
+
 # Meet The Team
 
 You can find the faces of our amazing team below-
