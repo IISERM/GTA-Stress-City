@@ -66,14 +66,53 @@ figure figcaption {
   <img src="Poster.png" class="poster"/>
 </p>
 
-**Registration Link-** [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt)
+# Winners
 
-**People outside IISER Mohali are welcome to participate. However, they can't win prizes. Feel free to register at the same link**
+The following are the winners of the event-
+
+## MAIN QUEST:
+- ### First Place: (4 hours, 40 mins)
+Team "**prabhu-ke-kripa-ke-liye-chuchu-abhari**" - an MS17 team→
+Achuthan, Abhishek Roy, Kripa Nath, Prabhat Kumar
+
+- ### Second Place: (7 hours, 9 mins)
+Team "**bananza-boys**" - an MS19 team→
+Tushar Baruah, Pruthu Deshpande
+
+- ### Third Place: (7 hours, 10 mins)
+Team "**team-name**" - an MS21 team (who blew our minds, since they haven't even been to our campus yet but were able to pull through!)→
+Ahir Ghosh, Abhilasha, Hanisha, Aryan
+
+Deciding the winners for the second and third place was a close call. 6 teams were battling with last clue for the second place and one of them even had a 14 year old. This same team, quite impressively, solved 2 out of the 3 Labyrinth side quests.
+
+## SIDE QUESTS:
+- ### Side Quest 1: (2 hours, 20 mins)
+Team "**ackerman-squad**" - an MS20 team→
+Aswin R Nair, Adithyan V Kumar, Safana P Shaji, Arshita Dhiman
+
+- ### Side Quest 2: (3 hours, 13 mins)
+Team "**sussy-monke**" - an MS19 team→
+Shantanu Raikwar, Aavani Babu, Prajakta Mane, Anish Koley
+
+- ### Side Quest 3: (4 hours, 14 mins)
+Team "**fuckboi-socrates**" - an MS20 "team"→
+Sahil Shah
+
+- ### LABYRINTH: (3 hours, 33 mins)
+Team "**bananza-boys**"→
+Yup, the same ones who came second in the main quest. (they were one of the two teams who obtained GODMODE from the labyrinth and speedran the rest of the game o_o) 
+
+
+# Registration
+
+Registrations Closed. You can still download the game if you scroll down.
+
+<!-- **People outside IISER Mohali are welcome to participate. However, they can't win prizes. Feel free to register at the same link** -->
 
 # Time
 
 **1st April, 9 pm**
-Join online and stay connected with us on WhatsApp. Or visit us in H6 study room if you have a doubt.
+Join online and stay connected with us on Discord. Or visit us in H6 study room if you have a doubt.
 
 # Theme
 
