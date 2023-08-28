@@ -159,7 +159,11 @@ Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got 
 
 # How it should look
 
+This is **NOT** how it should look-
+
 ![This is NOT how it should look like](./bad.png)
+
+This is how it should look-
 
 ![This is how it should look like](./good.png)
 
@@ -203,6 +207,8 @@ Register at [https://bit.ly/TuringHunt](https://bit.ly/TuringHunt). Yep, we got 
 3. Follow the appropriate instructions
 4. Enjoy
 5. Light fire to the trash can
+
+**The pass key is `098f6bcd4621d373cade4e832627b4f6`.**
 
 # Promotions
 
